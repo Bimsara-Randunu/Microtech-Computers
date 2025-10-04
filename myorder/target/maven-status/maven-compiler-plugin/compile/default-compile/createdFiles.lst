@@ -1,0 +1,8 @@
+com\example\myorder\model\Orders.class
+com\example\myorder\dto\OrderDTO.class
+com\example\myorder\MyorderApplication.class
+com\example\myorder\config\WebClientConfig.class
+com\example\myorder\service\OrderService$1.class
+com\example\myorder\service\OrderService.class
+com\example\myorder\controller\OrderController.class
+com\example\myorder\repo\OrderRepo.class

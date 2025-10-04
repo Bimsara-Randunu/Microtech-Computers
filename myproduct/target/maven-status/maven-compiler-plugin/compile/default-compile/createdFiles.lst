@@ -1,0 +1,6 @@
+com\example\myproduct\model\Product.class
+com\example\myproduct\MyproductApplication.class
+com\example\myproduct\service\ProductService.class
+com\example\myproduct\repo\ProductRepo.class
+com\example\myproduct\controller\ProductController.class
+com\example\myproduct\dto\ProductDTO.class
